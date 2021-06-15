@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875573435269",
+    "firebase_url": "https://fazentech-441ab.firebaseio.com",
+    "project_id": "fazentech-441ab",
+    "storage_bucket": "fazentech-441ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875573435269:android:ee920b05cf120d56b6c2ec",
+        "android_client_info": {
+          "package_name": "com.portfolio.projeto.fazentech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875573435269-c0bpdp4h8nufg34sffico8k5c89o94a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.portfolio.projeto.fazentech",
+            "certificate_hash": "1203235ded318e6cb97f8d881cc5e29f6937cd9a"
+          }
+        },
+        {
+          "client_id": "875573435269-5ckk58oamfjehvd8bouasv5378bef8cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1Bc9CHwA2cFzdginVzOIHeTmj_qNwUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875573435269-5ckk58oamfjehvd8bouasv5378bef8cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#15161B</color>
+    <color name="colorAccent">#e78200</color>
+    <color name="textColorDefult">#212E5E</color>
+    <color name="colorGunwale">#15161B</color>
+    <color name="ColorControlHighlight">#919294</color>
+</resources>
